@@ -1,6 +1,7 @@
  <h1 align="center">Hi 👋, I'm Malaya Tiwari</h1>
 
  <h2>Projects</h2>
+  <h4>Portfolio - https://malaya-tiwari.netlify.app/</h4>
   <h4>QuantumQuik Shop - https://quantum-quik-shop.vercel.app/</h4>
  <h4>Quantum Verse - https://quantum-verse-frontend.vercel.app/login</h4>
   
