@@ -6,7 +6,7 @@
  <h4>Quantum Verse - https://quantum-verse-frontend.vercel.app/login</h4>
   
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs,express,mongodb,github,git,postman,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwindcss,js,typescript,nodejs,express,mongodb,mysql,github,git,postman,react&perline=5)](https://skillicons.dev)
 
 ![Malaya Tiwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malaya47&show_icons=true&theme=dark)
 
