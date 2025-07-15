@@ -10,6 +10,8 @@
 
 ![Malaya Tiwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malaya47&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaya47&theme=dark)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaya47&theme=dark) <!-->
+
+<a href="https://app.daily.dev/malayatiwari"><img src="https://api.daily.dev/devcards/v2/QocCIrreJvpAoAqZAxWRG.png?type=default&r=h5a" width="356" alt="Malaya Tiwari's Dev Card"/></a>
 
 
