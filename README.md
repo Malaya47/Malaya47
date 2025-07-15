@@ -12,6 +12,6 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malaya47&theme=dark) <!-->
 
-<a href="https://app.daily.dev/malayatiwari"><img src="https://api.daily.dev/devcards/v2/QocCIrreJvpAoAqZAxWRG.png?type=default&r=h5a" width="356" alt="Malaya Tiwari's Dev Card"/></a>
+<a href="https://app.daily.dev/malayatiwari"><img src="./devcard.png" width="356" alt="Malaya Tiwari's Dev Card"/></a>
 
 
