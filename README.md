@@ -7,7 +7,7 @@
  <h4>Event Management - https://event-management-frontend-beryl.vercel.app/</h4>
   
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,typescript,nodejs,express,mongodb,mysql,github,git,postman,react,redux&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwindcss,typescript,nodejs,express,mongodb,mysql,sequelize,github,git,postman,react,redux&perline=5)](https://skillicons.dev)
 
 ![Malaya Tiwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malaya47&show_icons=true&theme=dark)
 
