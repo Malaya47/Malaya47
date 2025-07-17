@@ -15,6 +15,7 @@ Others: JWT Auth, MVC Architecture, WebSockets, Mongo Atlas, Axios
  <h2>Projects</h2>
   <h4>Portfolio - https://malaya-tiwari.netlify.app/</h4>
   <h4>QuantumQuik Shop - https://quantum-quik-shop.vercel.app/</h4>
+  <h4>Echo: where developers meet - https://echo-xi-dusky.vercel.app</h4>
  <h4>Quantum Verse - https://quantum-verse-frontend.vercel.app/login</h4>
  <h4>Event Management - https://event-management-frontend-beryl.vercel.app/</h4>
   
