@@ -1,6 +1,6 @@
  <h1 align="center">👋 Hi there, I'm Malaya Tiwari</h1>
  <p>I'm a Full Stack Developer with 1 year of hands-on experience building web applications using the MERN stack (MongoDB, Express, React, Node.js). I enjoy creating clean, responsive UIs and writing scalable backend APIs. I’m passionate about problem-solving and building products that solve real-world challenges.</p>
- <h2>Currently: Learning Next.js</h2>
+ <h2>Currently: Working on <a href="https://aigenreels.com/">aigenreels.com</a></h2>
  
  🛠️ Tech Stack
  
